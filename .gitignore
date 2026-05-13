@@ -17,3 +17,6 @@ aulas/
 # Ignorar pasta: livros
 livros/
 
+# Ignorar pasta: data
+data/
+
